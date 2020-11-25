@@ -1,16 +1,3 @@
 body{
-    background-color:"#e3fdfd";
-}
-hr{
-    border-style: dotted none none;
-    border-width: 5px;
-    border-color: gray;
-    width: 5%;
-    /*height: 40px;*/
-}
-h1,h3{
-   color: #66BFBF;
-}
-h1{
-    font-size: 200px;
+    background-color: blue;
 }
